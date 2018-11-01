@@ -7,6 +7,6 @@ def roll
 item = roll[rand(roll.length)]
 end
 
-def roll
+def dice_roll
   1 + rand(6)
 end
