@@ -12,4 +12,5 @@ def dice_roll
 end
 
 roll
+
 dice_roll
