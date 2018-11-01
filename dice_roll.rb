@@ -10,3 +10,6 @@ end
 def dice_roll
   1 + rand(6)
 end
+
+roll
+dice_roll
